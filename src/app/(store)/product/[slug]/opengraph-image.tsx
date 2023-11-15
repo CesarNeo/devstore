@@ -1,7 +1,7 @@
+/* eslint-disable @next/next/no-img-element */
 import { api } from '@/config/api'
 import { env } from '@/env'
 import { Product } from '@/types'
-import Image from 'next/image'
 import { ImageResponse } from 'next/og'
 import colors from 'tailwindcss/colors'
 
